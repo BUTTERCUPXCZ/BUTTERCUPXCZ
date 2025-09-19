@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
-- 🔭 I’m currently working on **Hostel-Reservation**
+- 🔭 I’m currently working on **Scholarship Finder website**
 
-- 🌱 I’m currently learning **NextJS, tRPC, Prisma, Supabase**
+- 🌱 I’m currently learning **Express, Redux, Prisma, Supabase**
 
 - 👨‍💻 All of my projects are available at [https://ivannnxcz.vercel.app/](https://ivannnxcz.vercel.app/)
 
