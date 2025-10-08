@@ -28,11 +28,11 @@ I specialize in **backend development**, but I also enjoy exploring frontend tec
 
 ### 🏫 [BDCNHS Grading System](#)
 A comprehensive student management and grading system designed to streamline academic processes, featuring faculty and student panels with attendance, subject, and grading modules.  
-**Tech:** React.js, Node.js, Express, PostgreSQL, Prisma, TailwindCSS  
+**Tech:** React.js, Node.js, Express, MySQL, TailwindCSS  
 
 ### 🎓 [ScholarSphere](#)
 A platform that connects scholars and students with scholarship opportunities, featuring application management and user authentication.  
-**Tech:** React.js, Node.js, Supabase, TypeScript, Shadcn UI  
+**Tech:** React (TypeScript), Node.js (TypeScript), Express, Supabase, Redis, Docker, TypeScript, Shadcn UI  
 
 ---
 
