@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivan Eltagonde  
+# 👋 Hi, I'm Ivan
 
 🎓 I'm a 4th-year student and aspiring **Software Developer** passionate about building efficient and scalable web applications.  
 I specialize in **backend development**, but I also enjoy exploring frontend technologies to create complete, well-structured solutions.  
