@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivan Eltagonde
+# 👋 Hi, I'm Ivan 
 
 **Backend-Focused Full-Stack Developer**  
 📍 Davao City, Philippines
