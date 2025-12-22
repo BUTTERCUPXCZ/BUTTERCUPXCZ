@@ -63,7 +63,7 @@ A complete scholarship management system with secure authentication, real-time u
 **Tech Stack:**  
 React (TypeScript), Node.js (TypeScript), Express, PostgreSQL, Prisma, Supabase, Redis, Docker, Shadcn/UI
 
-🔗 Live: https://scholarspheres.vercel.app
+🔗 Github: https://github.com/BUTTERCUPXCZ/Scholarship-Finder.git
 
 ---
 
@@ -82,7 +82,7 @@ An AI-driven platform for note summarization, quiz generation, and study automat
 **Tech Stack:**  
 React (Vite + TypeScript), NestJS, PostgreSQL, Prisma, Supabase, Redis, Socket.IO, Shadcn/UI
 
-🔗 Live: https://budsai.vercel.app/
+🔗 Github: https://github.com/BUTTERCUPXCZ/AI-Study-Buddy.git
 
 ---
 
