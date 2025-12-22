@@ -1,112 +1,98 @@
-👋 Hi, I’m Ivan Eltagonde
+# 👋 Hi, I'm Ivan Eltagonde
 
-Aspiring Full-Stack Developer (Backend-Focused)
+**Backend-Focused Full-Stack Developer**  
 📍 Davao City, Philippines
 
-I’m a 4th-year Computer Science student with strong hands-on experience in building scalable, production-ready web applications. My primary focus is backend engineering, API design, and system reliability, while maintaining solid frontend fundamentals to deliver complete solutions.
+I’m a 4th-year Computer Science student with hands-on experience building **scalable, production-ready web applications**. My core strength lies in **backend development, API design, and system performance**, complemented by solid frontend skills to deliver complete, reliable solutions.
 
-I enjoy solving real-world problems through clean architecture, efficient data handling, and well-designed APIs.
+---
 
-🧠 About Me
+## 🧠 About Me
+- 💻 Specialized in **Backend Development** using Node.js and NestJS
+- 🏗️ Strong interest in **system design, scalability, and clean architecture**
+- 🔐 Experienced with **authentication, authorization, and role-based access control**
+- 🌱 Actively learning **distributed systems, real-time applications, and DevOps**
+- 🚀 Open to **internships, junior developer roles, and collaborative projects**
 
-💻 Backend-focused developer specializing in Node.js, NestJS, and RESTful APIs
+---
 
-🏗️ Strong interest in system design, scalability, and performance optimization
+## 🛠️ Tech Stack
 
-🔐 Experienced in authentication, authorization, and role-based access control
-
-🌱 Continuously improving my skills in distributed systems and real-time applications
-
-🚀 Open to internships, junior roles, and collaborative projects
-
-🛠️ Tech Stack
-Languages
-
+### **Languages**
 TypeScript • JavaScript • SQL • HTML • CSS
 
-Backend
-
+### **Backend**
 Node.js • NestJS • Express.js • REST APIs • WebSocket (Socket.IO) • Redis
 
-Frontend
-
+### **Frontend**
 React.js • Vite • TanStack Query • TanStack Router • Tailwind CSS • Shadcn/UI
 
-Databases & ORM
-
+### **Databases & ORM**
 PostgreSQL • MySQL • Prisma ORM • Supabase • NeonDB
 
-DevOps & Tools
-
+### **DevOps & Tools**
 Docker • Git & GitHub • CI/CD • Render • Vercel • VS Code
 
-💼 Experience
-Software Developer Intern — Globe Telecom
+---
 
-July 2025 – August 2025
+## 💼 Experience
 
-Engineered a Deleted Cable Sidebar feature using TypeScript, reducing cable fault identification time by 60%
+### **Software Developer Intern — Globe Telecom**
+**July 2025 – August 2025**
 
-Optimized backend queries and data retrieval with Node.js, improving response time by 10%
+- Developed a **Deleted Cable Sidebar** feature using TypeScript, reducing cable fault identification time by **60%**
+- Optimized backend data retrieval and database queries, improving response time by **10%**
+- Collaborated with a cross-functional intern team through code reviews and feature enhancements
+- Implemented production bug fixes while maintaining **99% system uptime**
 
-Collaborated with a cross-functional intern team through code reviews and feature enhancements
+---
 
-Implemented bug fixes in production, maintaining 99% system uptime
+## 🚀 Featured Projects
 
-🚀 Featured Projects
-🎓 ScholarSphere — Scholarship Discovery & Management Platform
+### 🎓 **ScholarSphere — Scholarship Discovery & Management Platform**
+**Full-Stack Developer | Personal Project**
 
-Full-Stack Developer | Personal Project
+A complete scholarship management system with secure authentication, real-time updates, and application tracking.
 
-A complete scholarship management system with secure authentication, application tracking, and real-time updates.
+**Key Features**
+- 20+ RESTful APIs built with Node.js, Express, PostgreSQL, and Prisma
+- JWT-based authentication with role-based access control
+- Real-time updates using Supabase Realtime and Socket.IO
+- Optimized frontend data fetching with TanStack Query
 
-Highlights
-
-Built 20+ RESTful APIs using Node.js, Express, PostgreSQL, and Prisma
-
-Implemented JWT-based authentication and role-based access control
-
-Real-time updates via Supabase Realtime & Socket.IO
-
-Optimized frontend data fetching using TanStack Query
-
-Tech Stack:
+**Tech Stack:**  
 React (TypeScript), Node.js (TypeScript), Express, PostgreSQL, Prisma, Supabase, Redis, Docker, Shadcn/UI
 
 🔗 Live: https://scholarspheres.vercel.app
 
-🤖 Buds AI — AI-Powered Study Platform
+---
 
-Full-Stack Developer | Personal Project
+### 🤖 **Buds AI — AI-Powered Study Platform**
+**Full-Stack Developer | Personal Project**
 
-An AI-driven study assistant for note summarization, quiz generation, and learning automation.
+An AI-driven platform for note summarization, quiz generation, and study automation.
 
-Highlights
+**Key Features**
+- Integrated **Gemini 2.5 Flash** for intelligent study assistance
+- Backend built with NestJS, Prisma, PostgreSQL, and Supabase Auth
+- Redis-based caching and rate limiting
+- Real-time job status updates via WebSocket
+- Automated background processing for study materials
 
-Integrated Gemini 2.5 Flash for intelligent study assistance
-
-Backend built with NestJS, Prisma, PostgreSQL, and Supabase Auth
-
-Implemented Redis caching and rate limiting
-
-Real-time job progress updates via WebSocket
-
-Background job processing for automated study workflows
-
-Tech Stack:
+**Tech Stack:**  
 React (Vite + TypeScript), NestJS, PostgreSQL, Prisma, Supabase, Redis, Socket.IO, Shadcn/UI
 
-🔗 Live: https://budsai.vercel.app/
+🔗 GitHub: https://github.com/BUTTERCUPXCZ/AI-Study-Buddy
 
-📫 Let’s Connect
+---
 
-📧 Email: ivaneltagonde5@gmail.com
+## 📫 Contact
+- 📧 Email: ivaneltagonde5@gmail.com  
+- 🌐 Portfolio: https://ivannnxcz.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/ivan-eltagonde-38a853312  
+- 🧑‍💻 GitHub: https://github.com/BUTTERCUPXCZ  
 
-🌐 Portfolio: https://ivannnxcz.vercel.app/
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/ivan-eltagonde-38a853312/
-
-🧑‍💻 GitHub: https://github.com/BUTTERCUPXCZ
-
-I value clean code, scalable systems, and continuous improvement.
-My goal is to build software that is reliable, maintainable, and impactful.
+> *I value clean code, scalable systems, and continuous improvement.  
+> My goal is to build software that is reliable, maintainable, and impactful.*
