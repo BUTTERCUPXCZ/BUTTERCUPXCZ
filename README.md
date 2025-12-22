@@ -14,7 +14,7 @@ I specialize in **backend development**, but I also enjoy exploring frontend tec
 
 ## 🧩 Tech Stack  
 **Languages & Frameworks:**  
-`TypeScript` • `JavaScript` • `Node.js` • `Express.js` • `React.js`  
+`TypeScript` • `JavaScript` • `Node.js` • `Nest JS` • `Express.js` • `React.js` • `Websocket` 
 
 **Databases & ORM:**  
 `PostgreSQL` • `MySQL` • `Prisma ORM` • `Supabase` • `NeonDB` • `Redis`  
