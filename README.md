@@ -82,7 +82,7 @@ An AI-driven platform for note summarization, quiz generation, and study automat
 **Tech Stack:**  
 React (Vite + TypeScript), NestJS, PostgreSQL, Prisma, Supabase, Redis, Socket.IO, Shadcn/UI
 
-🔗 GitHub: https://github.com/BUTTERCUPXCZ/AI-Study-Buddy
+🔗 Live: https://budsai.vercel.app/
 
 ---
 
