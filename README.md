@@ -1,98 +1,137 @@
-# 👋 Hi, I'm Ivan 
+# 👋 Hey, I'm Ivan Eltagonde
 
-**Backend-Focused Full-Stack Developer**  
-📍 Davao City, Philippines
+```ts
+const ivan = {
+  location: "Davao City, Philippines 🇵🇭",
+  role: "Backend-Focused Full-Stack Developer",
+  education: "B.S. Computer Science Student",
+  currentlyBuilding: [
+    "Scalable backend systems",
+    "AI-powered applications",
+    "Browser automation tools",
+    "Real-time web platforms"
+  ],
+  interests: [
+    "System Design",
+    "Distributed Systems",
+    "Clean Architecture",
+    "Developer Experience",
+    "Performance Optimization"
+  ]
+};
+```
 
-I’m a 4th-year Computer Science student with hands-on experience building **scalable, production-ready web applications**. My core strength lies in **backend development, API design, and system performance**, complemented by solid frontend skills to deliver complete, reliable solutions.
+I enjoy building software that solves real problems, whether that's designing scalable APIs, creating AI-powered tools, or automating repetitive workflows. While I work across the full stack, my passion is in backend engineering—designing reliable systems, optimizing performance, and writing maintainable code.
+
+Outside of coding, I'm always exploring better software architecture patterns, experimenting with new technologies, and learning how production systems operate at scale.
 
 ---
 
-## 🧠 About Me
-- 💻 Specialized in **Backend Development** using Node.js and NestJS
-- 🏗️ Strong interest in **system design, scalability, and clean architecture**
-- 🔐 Experienced with **authentication, authorization, and role-based access control**
-- 🌱 Actively learning **distributed systems, real-time applications, and DevOps**
-- 🚀 Open to **internships, junior developer roles, and collaborative projects**
+## 🚀 Tech Stack
+
+### ⚡ Backend
+
+* Node.js
+* Express.js
+* NestJS
+* REST APIs
+* WebSockets (Socket.IO)
+* Redis
+* Authentication & Authorization (JWT, RBAC)
+
+### 🎨 Frontend
+
+* React
+* TypeScript
+* Vite
+* TanStack Query
+* TanStack Router
+* Tailwind CSS
+* Shadcn/UI
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+* Prisma ORM
+* Supabase
+* NeonDB
+
+### ☁️ DevOps & Tools
+
+* Docker
+* Git & GitHub
+* CI/CD
+* Render
+* Vercel
+* VS Code
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Featured Project
 
-### **Languages**
-TypeScript • JavaScript • SQL • HTML • CSS
+### 🤖 Buds AI
 
-### **Backend**
-Node.js • NestJS • Express.js • REST APIs • WebSocket (Socket.IO) • Redis
+An AI-powered study assistant designed to automate learning through note summarization, quiz generation, and intelligent study workflows.
 
-### **Frontend**
-React.js • Vite • TanStack Query • TanStack Router • Tailwind CSS • Shadcn/UI
+* 🤖 Powered by **Gemini** for AI-assisted learning
+* 🔐 Secure backend built with **NestJS**, **PostgreSQL**, and **Prisma**
+* ⚡ Redis caching and rate limiting for better performance
+* 🔄 Real-time job status updates using **WebSockets**
+* 📚 Background processing for AI-generated study materials
 
-### **Databases & ORM**
-PostgreSQL • MySQL • Prisma ORM • Supabase • NeonDB
-
-### **DevOps & Tools**
-Docker • Git & GitHub • CI/CD • Render • Vercel • VS Code
+**Stack:** React, NestJS, PostgreSQL, Prisma, Redis, Supabase, Socket.IO, TypeScript
 
 ---
 
 ## 💼 Experience
 
-### **Software Developer Intern — Globe Telecom**
-**July 2025 – August 2025**
+### 💻 Software Developer @ Globe Telecom (Intern)
 
-- Developed a **Deleted Cable Sidebar** feature using TypeScript, reducing cable fault identification time by **60%**
-- Optimized backend data retrieval and database queries, improving response time by **10%**
-- Collaborated with a cross-functional intern team through code reviews and feature enhancements
-- Implemented production bug fixes while maintaining **99% system uptime**
+* Built a **Deleted Cable Sidebar** feature that reduced cable fault identification time by **60%**
+* Improved backend query performance, reducing response times by **10%**
+* Worked on production systems, implementing bug fixes and feature enhancements
+* Collaborated with engineers through code reviews and agile development practices
 
----
+### 🚀 Full-Stack Developer @ Inventiv
 
-## 🚀 Featured Projects
-
-### 🎓 **ScholarSphere — Scholarship Discovery & Management Platform**
-**Full-Stack Developer | Personal Project**
-
-A complete scholarship management system with secure authentication, real-time updates, and application tracking.
-
-**Key Features**
-- 20+ RESTful APIs built with Node.js, Express, PostgreSQL, and Prisma
-- JWT-based authentication with role-based access control
-- Real-time updates using Supabase Realtime and Socket.IO
-- Optimized frontend data fetching with TanStack Query
-
-**Tech Stack:**  
-React (TypeScript), Node.js (TypeScript), Express, PostgreSQL, Prisma, Supabase, Redis, Docker, Shadcn/UI
-
-🔗 Github: https://github.com/BUTTERCUPXCZ/Scholarship-Finder.git
+* Developed a cross-platform desktop application using **Electron**, **React**, and **TypeScript**
+* Built backend services with **Python/Flask**, JWT authentication, and cloud storage integrations
+* Engineered browser automation workflows with **Playwright**
+* Designed real-time APIs using **Socket.IO** and long-polling
+* Integrated AI-assisted messaging and analytics features
+* Improved scalability with **Redis**, autoscaling deployments, and secure AES-256 credential handling
 
 ---
 
-### 🤖 **Buds AI — AI-Powered Study Platform**
-**Full-Stack Developer | Personal Project**
+## 🌱 Currently Exploring
 
-An AI-driven platform for note summarization, quiz generation, and study automation.
-
-**Key Features**
-- Integrated **Gemini 2.5 Flash** for intelligent study assistance
-- Backend built with NestJS, Prisma, PostgreSQL, and Supabase Auth
-- Redis-based caching and rate limiting
-- Real-time job status updates via WebSocket
-- Automated background processing for study materials
-
-**Tech Stack:**  
-React (Vite + TypeScript), NestJS, PostgreSQL, Prisma, Supabase, Redis, Socket.IO, Shadcn/UI
-
-🔗 Github: https://github.com/BUTTERCUPXCZ/AI-Study-Buddy.git
+* Distributed Systems
+* Microservices
+* Event-Driven Architecture
+* Kubernetes
+* DevOps & Cloud Infrastructure
+* High-Performance Backend Design
 
 ---
 
-## 📫 Contact
-- 📧 Email: ivaneltagonde5@gmail.com  
-- 🌐 Portfolio: https://ivannnxcz.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/ivan-eltagonde-38a853312  
-- 🧑‍💻 GitHub: https://github.com/BUTTERCUPXCZ  
+## 📊 My Engineering Philosophy
+
+* 🧩 Keep solutions simple and maintainable.
+* ⚡ Measure performance before optimizing.
+* 🔐 Build security into the system from the start.
+* 🏗️ Design software with scalability in mind.
+* 📚 Never stop learning and experimenting.
 
 ---
 
-> *I value clean code, scalable systems, and continuous improvement.  
-> My goal is to build software that is reliable, maintainable, and impactful.*
+## 📫 Connect With Me
+
+* 🌐 Portfolio: **https://ivannnxcz.vercel.app**
+* 💻 GitHub: **https://github.com/BUTTERCUPXCZ**
+* 💼 LinkedIn: **https://www.linkedin.com/in/ivan-eltagonde-38a853312**
+* 📧 Email: **[ivaneltagonde5@gmail.com](mailto:ivaneltagonde5@gmail.com)**
+
+---
+
+> *I enjoy building software that is fast, reliable, and built to last—from backend services and APIs to AI-powered applications and automation tools.*
