@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ivan Eltagonde
 
-### Backend-Focused Full-Stack Developer
+### Full-Stack Developer
 
 *Designing scalable APIs · Building AI-powered tools · Automating workflows*
 
