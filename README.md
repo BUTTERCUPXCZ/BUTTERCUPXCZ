@@ -1,27 +1,6 @@
 # 👋 Hey, I'm Ivan Eltagonde
 
-```ts
-const ivan = {
-  location: "Davao City, Philippines 🇵🇭",
-  role: "Backend-Focused Full-Stack Developer",
-  education: "B.S. Computer Science Student",
-  currentlyBuilding: [
-    "Scalable backend systems",
-    "AI-powered applications",
-    "Browser automation tools",
-    "Real-time web platforms"
-  ],
-  interests: [
-    "System Design",
-    "Distributed Systems",
-    "Clean Architecture",
-    "Developer Experience",
-    "Performance Optimization"
-  ]
-};
-```
-
-I enjoy building software that solves real problems, whether that's designing scalable APIs, creating AI-powered tools, or automating repetitive workflows. While I work across the full stack, my passion is in backend engineering—designing reliable systems, optimizing performance, and writing maintainable code.
+I enjoy building software that solves real problems, whether that's designing scalable APIs, creating AI-powered tools, or automating repetitive workflows. While I work across the full stack, my passion is in backend engineering—designing reliable systems, optimizing performance, and writing maintainable ode.
 
 Outside of coding, I'm always exploring better software architecture patterns, experimenting with new technologies, and learning how production systems operate at scale.
 
